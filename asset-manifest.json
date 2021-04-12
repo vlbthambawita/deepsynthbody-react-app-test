@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vlbthambawita/deepsynthbody-react-app-test/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/vlbthambawita/deepsynthbody-react-app-test/static/js/main.0ed888a4.chunk.js",
+    "main.js.map": "/vlbthambawita/deepsynthbody-react-app-test/static/js/main.0ed888a4.chunk.js.map",
+    "runtime-main.js": "/vlbthambawita/deepsynthbody-react-app-test/static/js/runtime-main.7b789b95.js",
+    "runtime-main.js.map": "/vlbthambawita/deepsynthbody-react-app-test/static/js/runtime-main.7b789b95.js.map",
+    "static/js/2.2bdca474.chunk.js": "/vlbthambawita/deepsynthbody-react-app-test/static/js/2.2bdca474.chunk.js",
+    "static/js/2.2bdca474.chunk.js.map": "/vlbthambawita/deepsynthbody-react-app-test/static/js/2.2bdca474.chunk.js.map",
+    "static/js/3.45327da1.chunk.js": "/vlbthambawita/deepsynthbody-react-app-test/static/js/3.45327da1.chunk.js",
+    "static/js/3.45327da1.chunk.js.map": "/vlbthambawita/deepsynthbody-react-app-test/static/js/3.45327da1.chunk.js.map",
+    "index.html": "/vlbthambawita/deepsynthbody-react-app-test/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/vlbthambawita/deepsynthbody-react-app-test/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2bdca474.chunk.js.LICENSE.txt": "/vlbthambawita/deepsynthbody-react-app-test/static/js/2.2bdca474.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vlbthambawita/deepsynthbody-react-app-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b789b95.js",
+    "static/js/2.2bdca474.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0ed888a4.chunk.js"
+  ]
+}
